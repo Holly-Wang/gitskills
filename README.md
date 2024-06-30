@@ -1,2 +1,2 @@
 # gitskills
-dev add
+dev add comments
